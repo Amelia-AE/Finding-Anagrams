@@ -17,9 +17,9 @@ sorted_str1 = sorted(str1)
 sorted_str2 = sorted(str2)
 
 if(sorted_str1 == sorted_str2):
-    print(str1 + " and " + str2 + are anagrams. ")
+    print(str1 + " and " + str2 + " are anagrams. ")
 else:
-    print(str1 + " and " + str2 + are not anagrams. ")
+    print(str1 + " and " + str2 + " are not anagrams. ")
           
 
 
