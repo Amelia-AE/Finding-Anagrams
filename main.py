@@ -8,8 +8,8 @@ def find_anagram(word, anagram):
 
     return True
 
-str1 = "Tars"
-str2 = "Rats"
+str1 = "tars"
+str2 = "rats"
 
 if(len(str1) == len(str2))
 
